@@ -1,5 +1,5 @@
 ---
-title: "Yesterday night's TT thread: Not long ago i learned what a panic attack really is. On myself."
+title: "Yesterday night's TT thread: Not long ago i learned what a panic attack really is. On myself. […] Somehow i never would have thought that was it."
 date: 2020-02-14T02:43:13+01:00
 draft: false
 ---
