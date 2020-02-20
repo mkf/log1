@@ -17,3 +17,5 @@ Either send me your Diaspora handles, or send me your Gmail addresses. I will ad
 Please suggest me other ways how can I blog privately with per-post ACLs. I know I could write my own site for that but damn that takes time.
 
 Also, idk how Diaspora handles the comment visibility issue… hopefully I can just disable comments under posts there
+
+I am somewhat hesitant to use such popular instances of federated social networks, seeing how much people dislike places like mastodon.social
