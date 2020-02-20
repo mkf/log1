@@ -10,7 +10,7 @@ My account there is [mkf@diasp.org](https://diasp.org/people/ef8038e035b80138b91
 
 As I am still hesitant to rely on that pod, unsure whether i could be at risk of losing data there, i am not sure if i will choose to use it [for the purpose for which I am presently using Google Sites](/mindposting-started_gsite/).
 
-Maybe I will cross-post. That way I wouldn't lose data. Except, do i trust that pod enough for that.
+Maybe I will cross-post. That way I wouldn't lose data. Except, do i trust that pod enough for that — about my private posts.
 
 Either send me your Diaspora handles, or send me your Gmail addresses. I will add you to the respective one of the two.
 
