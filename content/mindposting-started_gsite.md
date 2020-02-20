@@ -28,4 +28,4 @@ add you to ACLs of my newly created mkfmindposting —
 https://sites.google.com/site/mkfmindposting or https://mind1.mikf.pl — 
 so that you see any posts on there.
 
-*Update*: see [here a newer post in which i consider cross-posting to Diaspora](diasp_dot_org_diaspora_account/)
+*Update*: see [here a newer post in which i consider cross-posting to Diaspora](/diasp_dot_org_diaspora_account/)
