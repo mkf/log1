@@ -25,7 +25,9 @@ And idk if im perfectionist, but idk how should i do that
    * inserting integers in binary format (byte-wise little-endian)
    * evaluation of arithmetic expressions on integers for the purpose of parametrisation of the two above instructions
      * on both integer literals as well as command line provided values
-One such program is [t2b](https://thosakwe.github.io/t2b/index.html) which I might just end up using.
+
+   One such program is [t2b](https://thosakwe.github.io/t2b/index.html) which I might just end up using.
+
 2. Performing the task using it, by creating a BMP file of all pixels in one color with no pallette by [the method described on my wiki1 here](https://wiki1.mikf.pl/gencertainkindsoffiles/nopaletteone24bitcolorbmp.html)
 
 #### 257 colors in stripes
