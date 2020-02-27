@@ -1,7 +1,7 @@
 ---
 title: "DWIN4: Generate BMP that will achieve best compression coefficient with JPEG"
 date: 2020-02-27T04:40:36+01:00
-draft: true
+draft: false
 ---
 
 So, as i wrote in [the post about DWIN5 from moments ago](/dwin05_feb27am/), I now have everything from the winter semester passed besides one thing — DWIN, or “Introduction to Computer Science”; basically I haven’t been doing homework most of the time from it and now I have to correct the grade by submitting all of them by March 11th.
