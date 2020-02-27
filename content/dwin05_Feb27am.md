@@ -19,3 +19,5 @@ It doesn't even support Unicode in tags or anywhere, just ends up with errors th
 And as obvious from the title of this post, it doesn't do the parameterentitities in ATTLIST thingie.
 
 So I don't exactly have anything to test against. Help.
+
+UPDATE: Moments after this post I also published ["DWIN4: Generate BMP that will achieve best compression coefficient with JPEG"](/dwin04bmpnopal_feb27am/)
