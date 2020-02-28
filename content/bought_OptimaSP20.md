@@ -8,7 +8,7 @@ I just bought an Optima SP20 typewriter, in Polish layout. It costed me 39PLN + 
 
 It is an electronic typewriter, of German production, based on a ZILOG 1701 processor, which, as seller says, "is similar in semantics to c64".
 
-In the posting it was described as equipped with an original ink ribbon, and previously serving for "machine print" on labels of 3.5" soft floppies for Amiga. "Very beautiful those labels present, if someone wants even a book could be written on it."
+In the posting it was described as equipped with an original ink ribbon, and previously serving for "machine print" on labels of 3.5" soft floppies for Amiga. "Very beautifully those labels present, if someone wants even a book could be written on it."
 
 Said to be from 1996, the mention of what is followed by "no guarantee due to the age despite it being operational".
 
