@@ -16,8 +16,11 @@ My assigned tasks, and current state of the draft of my submissions, are copied 
 
 The tasks text advises me to use https://www.xmlvalidation.com for validation. Except, uh, see for yourself how badly it does.
 It doesn't even support Unicode in tags or anywhere, just ends up with errors that look like it's been converting to latin1 or latin2 or something.
+*[UPDATE: it might have just been needing `encoding = "UTF-8"` which can be said to be fine, although i didn't check, just switched to `xmllint`, as i wrote in the latter post linked on the bottom of this one]*
 And as obvious from the title of this post, it doesn't do the parameterentitities in ATTLIST thingie.
 
 So I don't exactly have anything to test against. Help.
 
-UPDATE: Moments after this post I also published ["DWIN4: Generate BMP that will achieve best compression coefficient with JPEG"](/dwin04bmpnopal_feb27am/)
+UPDATE on the topic of this set of assignments: Moments after this post I also published ["DWIN4: Generate BMP that will achieve best compression coefficient with JPEG"](/dwin04bmpnopal_feb27am/)
+
+UPDATE on the topic of this very task: After nearly a week, I have just published ["can we have parameter entities in ATTLIST for reuse of attributes specification?"](/attlist-paramentities/) *spoiler: i guess not*.
