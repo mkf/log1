@@ -110,7 +110,7 @@ My result so far, with some really nasty CSS and general practices, but generall
 
 It felt like a very bad waste of time and a worthless experience.
 
-The excercise supposedly evolved from
+The task supposedly evolved from
 
 > Template webpage for 5th class of Internet Technologies course.
 >
