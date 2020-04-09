@@ -109,3 +109,10 @@ My result so far, with some really nasty CSS and general practices, but generall
 ![diff-map.jpg](/to_posts/tin5-Apr9am-jpgs/diff-map.jpg)
 
 It felt like a very bad waste of time and a worthless experience.
+
+The excercise supposedly evolved from
+
+> Template webpage for 5th class of Internet Technologies course.
+>
+> Initial version by Felipe Gonzalez (GitHub: pipe2705)
+https://github.com/pipe2705/html-css-homework
