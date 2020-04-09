@@ -69,7 +69,7 @@ Today i were doing a homework assignment task (https://kino.vm.wmi.amu.edu.pl/05
 
 into this:
 
-![orig.jpg](tin5-Apr9am-jpgs/orig.jpg)
+![orig.jpg](/to_posts/tin5-Apr9am-jpgs/orig.jpg)
 
 Which would be then checked with
 
@@ -104,8 +104,8 @@ Fontconfig warning: "/etc/fonts/fonts.conf", line 86: unknown element "blank"
 
 My result so far, with some really nasty CSS and general practices, but generally done lazily, although with heavy use of GIMP for analysis:
 
-![screenshot.jpg](tin5-Apr9am-jpgs/screenshot.jpg)
+![screenshot.jpg](/to_posts/tin5-Apr9am-jpgs/screenshot.jpg)
 
-![diff-map.jpg](tin5-Apr9am-jpgs/diff-map.jpg)
+![diff-map.jpg](/to_posts/tin5-Apr9am-jpgs/diff-map.jpg)
 
 It felt like a very bad waste of time and a worthless experience.
