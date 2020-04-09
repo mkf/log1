@@ -4,7 +4,7 @@ date: 2020-04-09T07:36:08+02:00
 draft: false
 ---
 
-Today i were doing a homework assignment task (https://kino.vm.wmi.amu.edu.pl/05en.htm) where we got an image and had to remake this:
+Today i were doing a homework assignment task (https://kino.vm.wmi.amu.edu.pl/05en.htm#assessment-tasks) where we got an image and had to remake this:
 
 ```html
 <!DOCTYPE html>
